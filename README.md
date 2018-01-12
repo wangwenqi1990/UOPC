@@ -16,6 +16,7 @@ To run the code
 
 
 Note that the comparables in the paper are 
+
 (1) Sparse Subspace Clustering (SSC)  (http://vision.jhu.edu/code/)
 
 (2) robust subspace clustering via thresholding (TSC) (https://www.nari.ee.ethz.ch/commth/research/downloads/sc.html)
